@@ -83,7 +83,7 @@ Add the following dependency to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>io.github.nnhieu</groupId>
+    <groupId>io.github.nn-hieu</groupId>
     <artifactId>fractional-indexing</artifactId>
     <version>0.0.1</version> 
 </dependency>
